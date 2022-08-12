@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/acast134/acast134/blob/main/abstarct.jpg)
+![MasterHead](https://github.com/acast134/acast134/blob/main/abstarct_banner.jpg)
 <h1 align="center">Hi 👋, I'm Adriel Castellanos</h1>
 <h3 align="center">A passionate software engineer from AZ</h3>
 
